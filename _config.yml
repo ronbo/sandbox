@@ -2,7 +2,7 @@
 title: Sandbox
 email: ronbo@ronbo.net
 description: My simple blog.
-baseurl: "/Sandbox"
+baseurl: "/sandbox"
 twitter_username: ronbo
 avatar: "https://pbs.twimg.com/profile_images/61407198/DVAvatar.jpg" # Set footer avatar
 paginate: 3

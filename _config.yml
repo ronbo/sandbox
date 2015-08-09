@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
+title: Sandbox
+email: ronbo@ronbo.net
 description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+baseurl: "/Sandbox"
+twitter_username: ronbo
+avatar: "https://pbs.twimg.com/profile_images/61407198/DVAvatar.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,7 +18,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
+      author: "ronbo" # Set default author name
       categories: "cats"
       layout: "post"
       comments: true
